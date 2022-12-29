@@ -1,2 +1,2 @@
-The Odin Project
-Project recipes html project no.1
+<h1>The Odin Project</h1>
+<h3>Project recipes html project no.1</h3>
