@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap'); /* font-family: 'Titillium Web', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); /* font-family: 'Pacifico', cursive; */
+/* Colors:
+platinium : 234, 234, 234
+amarant: 137, 49, 104
+dar purple: 74, 25, 66
+black: 5, 4, 4
+*/
+
+body {
+    background-color: rgb(234, 234, 234);
+    font-family: 'Titillium Web', sans-serif;
+    padding: 20px 40px 40px 20px;
+}
+
+.header {
+    color: rgb(5, 4, 4);
+    font-family: 'Pacifico', cursive;
+    font-size: 55px;
+    text-align: center;
+}
+a {
+    font-size: 20px;
+}
+a, a.visited{
+    color: rgb(137, 49, 104);
+}
+a.hover, a.active {
+    color: rgb(74, 25, 66);
+}
+ul#menu{
+    text-align: center;
+    list-style: none;
+}
+.title {
+    color: rgb(5, 4, 4);
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+.left{
+    float: left;
+}
+.right {
+    float: right;
+}
+a#return {
+    font-size: 15px;
+    text-align: center;
+}
+img {
+    height: 400px;
+    width: 400px;
+}
